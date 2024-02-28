@@ -1,0 +1,1 @@
+Sample repository for the blog post in [Blog Post](https://www.rbd-solutions.com/blog/svelte-django/).
